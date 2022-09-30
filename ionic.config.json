@@ -1,5 +1,7 @@
 {
   "name": "setToPlay",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
